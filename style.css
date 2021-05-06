@@ -75,6 +75,7 @@ hr {
 
 .hero{
     padding: 2rem;
+    padding-top: 5rem;
 }
 
 .hero .hero-img{
@@ -113,7 +114,17 @@ hr {
 
 .footer .link{
     color: white;
+
 }
+
+
+.footer .footer-header{
+    font-size: large;
+    font-weight: bold
+    ;
+}
+
+
 .footer ul{
     padding-inline-start: 0px;
 }
